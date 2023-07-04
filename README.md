@@ -25,7 +25,7 @@ Used an API to extract box office revenue and budget data from TMDB to add to th
 
  * Average revenue per certification category: 
 
-|certification | revenue | 
+|certification | mean revenue | 
 | - | - |
 | G | 1.173648e+08 |
 | PG | 1.106791e+08 |
@@ -35,7 +35,7 @@ Used an API to extract box office revenue and budget data from TMDB to add to th
 
  * Average budget per certification category
  
- | certification | budget |
+ | certification | mean budget |
  | - | - |
  | PG     |  4.482849e+07 |
  | PG-13  |  4.299357e+07 |
