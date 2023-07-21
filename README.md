@@ -73,3 +73,18 @@ Used an API to extract box office revenue and budget data from TMDB to add to th
 ![PNG](/Images/Q3_plot.png)
 
 **Conclusion: Yes, movies released in 2020 earned less revenue compared to movies released in 2019.**
+
+## Linear Regression Model
+
+### Coefficient of Final Model
+
+![PNG](/Images/Coefficient.png)
+
+## Final Recommendation
+
+The features (columns) that show highest coefficient (highest correlation with the target ('revenue')) are:
+
+- year
+- popularity
+- runtime
+- vote_count
